@@ -1,0 +1,28 @@
+.container{
+    width: 400px;
+    height: 400px;
+}
+
+
+.computer{
+    width: 155px;
+    height: 230px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+tr,td {
+    text-align: center;
+    border: 3px solid #444;
+    width: 40px;
+    height: 40px;
+}
+
+.lottoTr, .lottoTd{
+    width: 100px !important;
+    height: 100px !important;
+}
